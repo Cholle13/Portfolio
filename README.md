@@ -9,7 +9,7 @@ This portfolio will contain some of my accomplishments in highschool as well as 
 * [Java Projects](https://github.com/Cholle13/java-practice-problems)  
 
 ###Job Experience:
-* [Tree Farm](/Tree%20Farm.md)  
+* [Tree Farm](Tree%20farm.md)  
 
 ###Capture the Flag (Hacking Competitions):
 * [Main CTF Repository](https://github.com/Cholle13/CTF)
