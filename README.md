@@ -3,7 +3,7 @@ This portfolio will contain some of my accomplishments in highschool as well as 
   
 ##Accomplishments/Activities:
 ###Community Service:
-* [Prosthetic Hand](Portfolio/3D Printing.md) 
+* [Prosthetic Hand](https://github.com/ztaylor54/portfolio/blob/master/Folders/Prosthetic%20Hand/readme.md) 
 
 ###UIL:
 * [Java Projects](https://github.com/Cholle13/java-practice-problems)  
