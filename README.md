@@ -1,4 +1,4 @@
-# Portfolio  
+# Portfolio(Not updated as of 12/20/16)  
 This portfolio will contain some of my accomplishments in highschool as well as several activities and projects I have been involved with.  
   
 ##Accomplishments/Activities:
